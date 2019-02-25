@@ -23,3 +23,7 @@ Order.defaultProps = {
 };
 
 Order.propTypes = {};
+
+Order.propTypes = {
+  cone: PropTypes.bool
+};
